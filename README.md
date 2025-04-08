@@ -95,3 +95,4 @@ Bu proje ilk olarak Türkiye’deki adaletsiz siyasi ve ekonomik krizlere karş�
 
 Bu proje MIT Lisansı ile lisanslanmıştır.
 İsteyen herkes özgürce kullanabilir, geliştirebilir, paylaşabilir.
+Bu proje Mavi Soft Studios tarafından geliştirilmiştir. İzinsiz kopyalanamaz.

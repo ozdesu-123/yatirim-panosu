@@ -1,0 +1,17 @@
+[
+    {
+        "soru": "\ud83d\udcc8 Sence 2025\u2019te ekonomi toparlan\u0131r m\u0131?",
+        "secenek": "Hay\u0131r, daha k\u00f6t\u00fc olur",
+        "oy": 2
+    },
+    {
+        "soru": "\ud83d\udcc8 Sence 2025\u2019te ekonomi toparlan\u0131r m\u0131?",
+        "secenek": "Karars\u0131z\u0131m",
+        "oy": 1
+    },
+    {
+        "soru": "\ud83d\udcc8 Sence 2025\u2019te ekonomi toparlan\u0131r m\u0131?",
+        "secenek": "Evet, toparlan\u0131r",
+        "oy": 3
+    }
+]

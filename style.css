@@ -1,0 +1,78 @@
+/* Ana zemin */
+body, .stApp {
+    background-color: #696969 !important;
+    color: #696969 !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+/* Başlıklar */
+h1, h2, h3, h4 {
+    color: #003f5c !important;
+}
+
+/* Butonlar */
+.stButton > button {
+    background-color: #0000ff80 !important;
+    color: white !important;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5em 1.2em;
+    transition: 0.3s;
+}
+.stButton > button:hover {
+    background-color: #00ff0080 !important;
+}
+
+/* Input alanları */
+input, textarea, .stTextInput input, .stNumberInput input {
+    background-color: #fff !important;
+    color: #696969 !important;
+    border: 1px solid #ccc !important;
+    border-radius: 6px;
+    padding: 8px;
+}
+
+/* Sidebar */
+.css-1d391kg {  /* Streamlit’in sidebar class'ı */
+    background-color: #e1f0eb !important;
+}
+
+.css-10trblm, .css-qbe2hs { /* Sidebar yazı stilleri */
+    color: #003f5c !important;
+    font-weight: bold !important;
+}
+
+/* Kartlar */
+.stMarkdown > div {
+    background-color: #fff !important;
+    border-radius: 10px;
+    padding: 16px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    margin-bottom: 16px;
+}
+/* Metric kartlara sihirli dokunuş */
+[data-testid="metric-container"] {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    transition: all 0.3s ease;
+}
+
+[data-testid="metric-container"]:hover {
+    transform: scale(1.02);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.1);
+}
+body {
+    background-image: url("https://i.imgur.com/8y0rjqU.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+body {
+    background: linear-gradient(135deg, #e3c9f7, #f7e3f9);
+    background-attachment: fixed;
+    font-family: 'Arial', sans-serif;
+}
